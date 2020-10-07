@@ -7,6 +7,7 @@
 # Luís Fernando
 <sub>*Anaista de Sistemas* at Estudante de Business Inteligence</sub>
 
+Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio do Ceará (2015), pós graduando do MBA de Gestão Empresarial pela Faculdade Estácio do Ceará. Atuei como Chefe de Núcleo do Mercado Público da cidade de Sobral - CE, realizava a gestão do equipamento com a coordenação das equipes de fiscalização, serviços gerais e administrativo, atendimento aos permissionários e público em geral quanto demandas internas e externas. Foi Gerente de TI - Mundi Comércio de Veículos e Peças Ltda, onde manutenia o parque tecnológico, construção de relatórios para diretoria e  processos que melhorassem a rotina de trabalho dos setores: Financeiro, Fiscal, Contábil. Tenho como objetivo especializar na área de gestão por meio da análise de dados para gerarão de resultados.
 
 **Background em:** Implantação de Sistemas, Microsoft SQLServer, Microsoft Power BI e Servidores Windows.
 
